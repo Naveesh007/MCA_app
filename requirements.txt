@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+nltk
+wordcloud
+transformers[sentencepiece]
+torch
+scikit-learn
+langdetect
+googletrans==4.0.0-rc1
